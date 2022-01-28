@@ -1,2 +1,0 @@
-# Shaurma-Simulator
-123
